@@ -62,7 +62,7 @@ export default function DashBoard(props) {
 
 
 DashBoard.navigationOptions = () => {
-    return {headerShown: false}
+    return {headerShown: true}
 };
 
 const styles = StyleSheet.create({
